@@ -1,0 +1,10 @@
+fastapi
+ultralytics
+numpy
+opencv-python
+pandas
+pvlib
+pillow
+requests
+python-dotenv
+python-multipart
